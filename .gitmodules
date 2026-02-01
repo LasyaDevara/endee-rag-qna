@@ -1,0 +1,3 @@
+[submodule "third_party/endee"]
+	path = third_party/endee
+	url = https://github.com/EndeeLabs/endee.git
